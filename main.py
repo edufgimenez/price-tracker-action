@@ -11,11 +11,11 @@ URL = "https://www.lg.com/api/graphql"
 PRODUCTS = {
     "CV9014BC2.ABLFBRS.ESSP.BR.C": {
         "url": "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014bc2/",
-        "threshold": 5000.00,
+        "threshold": 6000.00,
     },
     "WD18GNTS6B.AEGFBRS.ESSP.BR.C": {
         "url": "https://www.lg.com/br/lavanderia/lava-e-seca/wd18gnts6b/",
-        "threshold": 6000.00,
+        "threshold": 7000.00,
     },
 }
 
