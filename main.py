@@ -13,12 +13,12 @@ PRODUCTS = {
     "CV9014BC2.ABLFBRS.ESSP.BR.C": {
         "label": "Lava e Seca LG 14kg",
         "url": "https://www.lg.com/br/lavanderia/lava-e-seca/cv9014bc2/",
-        "threshold": 6000.00,
+        "threshold": 5000.00,
     },
     "WD18GNTS6B.AEGFBRS.ESSP.BR.C": {
         "label": "Lava e Seca LG 18kg",
         "url": "https://www.lg.com/br/lavanderia/lava-e-seca/wd18gnts6b/",
-        "threshold": 7000.00,
+        "threshold": 6000.00,
     },
 }
 
